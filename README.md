@@ -135,9 +135,9 @@ I'm continuously building and experimenting with new ideas across AI, web develo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdsamim-dev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdsamim-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamim-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamim-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -157,10 +157,9 @@ I'm continuously building and experimenting with new ideas across AI, web develo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsamim-dev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsamim-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
-
 ---
 
 ## 📌 GitHub Overview
