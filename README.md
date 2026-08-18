@@ -1,27 +1,221 @@
-<h1 align="center">Hi 👋, I'm Md Samim Aktar</h1>
-<h3 align="center">Computer Science Engineering Student | Aspiring Software Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsamim-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mdsamim-dev" /> </p>
+# 👋 Hi, I'm Md Samim Aktar
 
-- 🔭 I’m currently working on [Air-Writing](https://github.com/mdsamim-dev/Air-Writing.git)
+### 💻 Computer Science & Engineering Student • Software Developer • AI/ML Enthusiast
 
-- 🌱 I’m currently learning **Python, DSA, Machine Learning, AI, Full-Stack Development & Git/GitHub**
-
-- 💬 Ask me about **Java, DSA, Web Development.**
-
-- 📫 How to reach me **muhammadsamimaktar@gmail.com**
-
-- ⚡ Fun fact **I turn ☕ into code and bugs into features 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-samim-aktar-webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-samim-aktar-webdev" height="30" width="40" /></a>
-<a href="https://instagram.com/__hhaammzzaa_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hhaammzzaa_.__" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/mdsamim-dev">
+    <img src="https://img.shields.io/badge/GitHub-mdsamim--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadsamimaktar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdsamim-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsamim-dev&show_icons=true&locale=en&layout=compact" alt="mdsamim-dev" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamim-dev&" alt="mdsamim-dev" /></p>
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science & Engineering student** passionate about turning ideas into practical software.
+
+I enjoy building projects around **AI, Machine Learning, Web Development, Automation, and Developer Tools**.
+
+* 🔭 Currently working on **AI & software projects**
+* 🌱 Currently learning **Python, DSA, Machine Learning, AI & Full-Stack Development**
+* 🧠 Interested in **Artificial Intelligence & Software Engineering**
+* 💻 I enjoy building projects that solve real-world problems
+* 🚀 Always experimenting with new technologies
+* 🤝 Open to collaboration on interesting projects
+* ⚡ Fun fact: **I turn ☕ into code and bugs into features.**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ✨ Air-Writing
+
+A real-time air-writing system that lets you draw glowing neon strokes in the air using hand gestures and a webcam.
+
+**Tech:** Python • OpenCV • MediaPipe • NumPy
+
+<a href="https://github.com/mdsamim-dev/Air-Writing">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧠 GenAI for History
+
+An AI-powered web project focused on exploring historical events through an interactive interface.
+
+**Tech:** HTML • CSS • JavaScript • AI
+
+<a href="https://github.com/mdsamim-dev/genaiforhistory">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📄 Resume AI Bot
+
+An AI-powered resume generator that uses Google's Gemini API to generate and improve resume content.
+
+**Tech:** Node.js • JavaScript • Gemini API
+
+<a href="https://github.com/mdsamim-dev/resume-ai-bot">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 More Projects
+
+I'm continuously building and experimenting with new ideas across AI, web development, automation and software engineering.
+
+<a href="https://github.com/mdsamim-dev?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react" />
+</p>
+
+### 🤖 AI / Data / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
+
+`Machine Learning` • `Computer Vision` • `Generative AI` • `Data Science`
+
+### 🧰 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mongodb" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdsamim-dev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamim-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mdsamim-dev&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsamim-dev&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 📌 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsamim-dev&theme=tokyonight" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdsamim-dev&theme=tokyonight" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdsamim-dev&theme=tokyonight" width="45%"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Currently Focused On
+
+```text
+AI / Machine Learning       ███████████████░░░░░
+Data Structures & Algorithms ██████████████░░░░░░
+Full-Stack Development      ████████████░░░░░░░░
+Python                       ███████████████░░░░░
+Git & GitHub                 ████████████████░░░░
+Software Engineering         ███████████░░░░░░░░░
+```
+
+> Building projects, learning consistently, and improving one commit at a time. 🚀
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/mdsamim-dev">
+<img src="https://img.shields.io/badge/GitHub-mdsamim--dev-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:muhammadsamimaktar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-muhammadsamimaktar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Break. Learn. Repeat."
+
+⭐ If you find something useful in my repositories, consider giving it a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+
+</div>
